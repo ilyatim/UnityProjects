@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aa554fc3-6f9d-4942-9614-4babaf05090c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../../computer_graphics_practice1/Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../computer_graphics_practice1/Library/ArtifactDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../computer_graphics_practice1/Library/Artifacts/5d/5da2bce878f762cb62eb19067bdaf5d4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../computer_graphics_practice1/Library/Artifacts/8f/8f4ab6300fa5b1baf9c986ef53166bd1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../computer_graphics_practice1/Library/Artifacts/99/996c8d4a060bd9b2e23d065822c21271" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../computer_graphics_practice1/Library/Artifacts/9a/9a53a17907634ead1f34c95d2d5d45e0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../computer_graphics_practice1/Library/Artifacts/af/af89d5deabc8b4bf3c4055617575152d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../computer_graphics_practice1/Library/Artifacts/c6/c6fd25c1ce195857dd52735ae4454b03" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../computer_graphics_practice1/Library/CurrentLayout-default.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../computer_graphics_practice1/Library/CurrentLayout-default.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../computer_graphics_practice1/Library/LastSceneManagerSetup.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../computer_graphics_practice1/Library/LastSceneManagerSetup.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../computer_graphics_practice1/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../computer_graphics_practice1/Library/SourceAssetDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../computer_graphics_practice1/Library/expandedItems" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../computer_graphics_practice1/Library/expandedItems" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../../../Scripts/ChangeCenterMass.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../Scripts/LightOn.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../../../Scripts/CnangeCenterMass.cs" />
+        <option value="$PROJECT_DIR$/../../../Scripts/ChangeCenterMass.cs" />
+        <option value="$PROJECT_DIR$/../../../Scripts/LightOn.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1azEBWe9jVT5AhK5xMO6PHBj7en" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.3" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="">
+    <configuration name="Unnamed" type="RunUnityExe" factoryName="Unity Executable" nameIsGenerated="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/../../../Scripts/LightOn.cs" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../Scripts" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Unity Executable.Unnamed" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa554fc3-6f9d-4942-9614-4babaf05090c" name="Default Changelist" comment="" />
+      <created>1587729887541</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587729887541</updated>
+      <workItem from="1587729893026" duration="7773000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587746756305">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1587746756305" />
+    <state x="277" y="55" key="SettingsEditor" timestamp="1587747132965">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1587747132965" />
+  </component>
+</project>
