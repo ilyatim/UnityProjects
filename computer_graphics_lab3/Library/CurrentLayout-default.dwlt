@@ -21,7 +21,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 6}
-  m_MinSize: {x: 875, y: 300}
+  m_MinSize: {x: 875, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 1
 --- !u!114 &2
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 677, y: 492}
   m_MaxSize: {x: 14001, y: 14042}
   vertical: 0
-  controlID: 121
+  controlID: 123
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -220,7 +220,7 @@ MonoBehaviour:
   m_MinSize: {x: 402, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 57
+  controlID: 58
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -245,7 +245,7 @@ MonoBehaviour:
   m_MinSize: {x: 402, y: 221}
   m_MaxSize: {x: 8002, y: 4021}
   vertical: 0
-  controlID: 58
+  controlID: 59
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -414,10 +414,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 324.80002
+    x: 394.4
     y: 73.6
-    width: 916
-    height: 439
+    width: 807
+    height: 436
   m_ViewDataDictionary: {fileID: 0}
   m_ViewTransforms:
     m_KeySerializationHelper:
@@ -522,20 +522,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Prefabs
+    - Assets/FibrumSDK/Prefabs
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Prefabs
+  - Assets/FibrumSDK/Prefabs
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\MyProgram\GitHub\Projects\UnityProjects\computer_graphics_lab3
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 265b0000
-    m_LastClickedID: 23334
-    m_ExpandedIDs: 00000000163c0000
+    m_SelectedIDs: cc340000
+    m_LastClickedID: 13516
+    m_ExpandedIDs: 000000009e340000a4340000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -563,7 +563,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 000000009e340000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -656,7 +656,7 @@ MonoBehaviour:
     m_PrefName: Preview_InspectorPreview
   m_PreviewWindow: {fileID: 0}
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 87
+  m_LastVerticalScrollValue: 0
 --- !u!114 &17
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -686,9 +686,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 84b8ffff
-      m_LastClickedID: -18300
-      m_ExpandedIDs: 46baffff50baffff42c3ffff4cc3ffffcecdffff24d1ffffa6d1ffffd4ddffff08deffff0adeffff10deffff14deffff38fbffff
+      m_SelectedIDs: e8adffff
+      m_LastClickedID: -21016
+      m_ExpandedIDs: 18e5fffff8f3ffffcef7ffffecf7ffffd4f8ffffeaf8ffff4ef9ffff6cfbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -748,9 +748,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -0.770474, y: 1.2780831, z: 0.06787361}
+    m_Target: {x: -287.8329, y: 77.624466, z: 582.10156}
     speed: 2
-    m_Value: {x: -0.770474, y: 1.2780831, z: 0.06787361}
+    m_Value: {x: -287.8329, y: 77.624466, z: 582.10156}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -796,13 +796,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.1486353, y: -0.7204328, z: 0.16285078, w: 0.6575437}
+    m_Target: {x: 0.07448057, y: -0.43347993, z: 0.03597899, w: 0.897362}
     speed: 2
-    m_Value: {x: 0.1486353, y: -0.7204328, z: 0.16285078, w: 0.6575437}
+    m_Value: {x: 0.07448038, y: -0.4334788, z: 0.0359789, w: 0.89735967}
   m_Size:
-    m_Target: 3.4724092
+    m_Target: 1184.5625
     speed: 2
-    m_Value: 3.4724092
+    m_Value: 1184.5625
   m_Ortho:
     m_Target: 0
     speed: 2
